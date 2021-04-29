@@ -27,7 +27,7 @@ La Blockchain crée un lien différents entre ses blocks grâce au Hash.
 Quelle structure de données informatique peut représenter le mieux cette chaine de Block: https://en.wikipedia.org/wiki/List_of_data_structures ?
 
 ### Réponse à la question 5 : 
-
+C'est la liste chaîné.
 
 ## Question 6 : 
 Si je souhaite modifier une transaction de 10 bitcoin que j'ai effectué il y a 6 mois en une transaction de 1 Bitcoin, que dois je modifier dans la Blockchain et que dois je mettre en oeuvre pour que cette modification persiste ?
